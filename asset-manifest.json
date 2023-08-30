@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-contactbook/static/css/main.96356612.css",
+    "main.js": "/react-redux-contactbook/static/js/main.d2f866c7.js",
+    "static/js/787.e54fc9ba.chunk.js": "/react-redux-contactbook/static/js/787.e54fc9ba.chunk.js",
+    "index.html": "/react-redux-contactbook/index.html",
+    "main.96356612.css.map": "/react-redux-contactbook/static/css/main.96356612.css.map",
+    "main.d2f866c7.js.map": "/react-redux-contactbook/static/js/main.d2f866c7.js.map",
+    "787.e54fc9ba.chunk.js.map": "/react-redux-contactbook/static/js/787.e54fc9ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96356612.css",
+    "static/js/main.d2f866c7.js"
+  ]
+}
